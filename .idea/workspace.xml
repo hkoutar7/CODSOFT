@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fd1dea3-40b2-41ec-a5d3-e4eec7ec1678" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task2/src/SubjectCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/CODSOFT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/com.studentManagementSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/DAO/SingletonConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/DAO/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/Model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/Test/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/View/Student.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task5/src/View/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Pc/IdeaProjects/-CODSOFT/Task3",
+    "last_opened_file_path": "C:/Users/Pc/IdeaProjects/CODSOFT/Task4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -54,6 +68,13 @@
       <workItem from="1699757982352" duration="114000" />
       <workItem from="1700360300899" duration="46000" />
       <workItem from="1700366677164" duration="317000" />
+      <workItem from="1700367319111" duration="463000" />
+      <workItem from="1701555668517" duration="27000" />
+      <workItem from="1701555718132" duration="64000" />
+      <workItem from="1701557687985" duration="179000" />
+      <workItem from="1701590154723" duration="183000" />
+      <workItem from="1701638565001" duration="196000" />
+      <workItem from="1701638773340" duration="4000" />
     </task>
     <servers />
   </component>
